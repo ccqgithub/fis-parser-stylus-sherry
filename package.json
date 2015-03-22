@@ -1,6 +1,6 @@
 {
   "name": "sherry-parser-stylus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A sherry parser for stylus with fis.",
   "main": "index.js",
   "scripts": {

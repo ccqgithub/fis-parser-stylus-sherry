@@ -7,7 +7,7 @@ module.exports = function(content, file, conf) {
 
     stylus.render(content, {
         filename: file.getId(),
-        compress: true,
+        compress: false,
         use: nib()
     }, function(err, css) {
         if (err) throw err;
