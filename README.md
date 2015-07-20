@@ -1,4 +1,4 @@
-sherry 
+fis-parser-stylus-sherry
 ====
 
 一个fis插件，作用于parser阶段。
