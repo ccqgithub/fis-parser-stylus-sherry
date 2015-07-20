@@ -1,5 +1,5 @@
 {
-  "name": "sherry-parser-stylus",
+  "name": "fis-parser-stylus-sherry",
   "version": "0.0.4",
   "description": "一个fis插件，作用于parser阶段，用于将stylus解析为css，支持nib，主要用于sherry-web。",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "https://github.com/luyujun/fis-parser-stylus.git"
   },
   "keywords": [
-    "sherry-parser-stylus",
+    "fis-parser-stylus-sherry",
     "sherry",
     "sherry-web",
     "fis"
